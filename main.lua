@@ -14,13 +14,13 @@ SMODS.load_file('content/Spectrals.lua')()
 SMODS.load_file('content/Jokers.lua')()
 
 TexturePack {
-    key = 'soul_everything',
+    key = "artboxjokers",
     textures = {
-        'soul_everything_tarots',
-        'soul_everything_vouchers',
-        'soul_everything_planets',
-        'soul_everything_spectrals',
-        'soul_everything_jokers',
+        "artboxjokers_tarots",
+        "artboxjokers_vouchers",
+        "artboxjokers_planets",
+        "artboxjokers_spectrals",
+        "artboxjokers_jokers",
     },
 }
 
