@@ -31,28 +31,28 @@ SMODS.current_mod.extra_tabs = function()
               {
                 n = G.UIT.R,
                 nodes = {
-                  { n = G.UIT.T, config = { text = "Contributors", colour = G.C.CHIPS, scale = 0.75 } },
+                  { n = G.UIT.T, config = { text = "Artists", colour = G.C.CHIPS, scale = 0.75 } },
                 }
               },
               {
                 n = G.UIT.R,
                 config = { align = 'cm', minh = 0.25 },
                 nodes = {
-                  { n = G.UIT.T, config = { text = 'Victin', colour = G.C.GREEN, scale = 0.4 } }
+                  { n = G.UIT.T, config = { text = "", colour = G.C.GREEN, scale = 0.4 } }
                 }
               },
               {
                 n = G.UIT.R,
                 config = { align = 'cm', minh = 0.25 },
                 nodes = {
-                  { n = G.UIT.T, config = { text = 'Somethingcom515', colour = G.C.GREEN, scale = 0.4 } }
+                  { n = G.UIT.T, config = { text = "", colour = G.C.GREEN, scale = 0.4 } }
                 }
               },
               {
                 n = G.UIT.R,
                 config = { align = 'cm', minh = 0.25 },
                 nodes = {
-                  { n = G.UIT.T, config = { text = 'meeturendnoobz', colour = G.C.GREEN, scale = 0.4 } }
+                  { n = G.UIT.T, config = { text = "", colour = G.C.GREEN, scale = 0.4 } }
                 }
               },
             }
