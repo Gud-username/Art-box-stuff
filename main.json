@@ -1,0 +1,16 @@
+{
+    "id": "Artboxjokers",
+    "name": "Art box jokers",
+    "prefix": "Artboxjokers",
+    "author": [
+      "Smol"
+    ],
+    "description": "Art box jokers",
+    "main_file": "Main.lua",
+    "badge_colour": "89da90",
+    "version": "0.1",
+    "dependencies": [
+        "malverk"
+    ]
+  }
+  
